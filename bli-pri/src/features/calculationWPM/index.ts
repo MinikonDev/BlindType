@@ -1,1 +1,0 @@
-export { calculationWPM } from "./model";

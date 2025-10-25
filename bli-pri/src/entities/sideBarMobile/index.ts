@@ -1,1 +1,0 @@
-export { SideBarWindow } from "./ui";

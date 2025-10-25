@@ -1,1 +1,0 @@
-export { MoveCaretka } from "./mode";

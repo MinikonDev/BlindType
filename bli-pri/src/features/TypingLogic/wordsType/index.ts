@@ -1,1 +1,0 @@
-export { wordsType } from "./mode";

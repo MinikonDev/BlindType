@@ -1,1 +1,0 @@
-export { createText } from "./model";

@@ -1,1 +1,0 @@
-export { WpmAccBlock } from "./ui";

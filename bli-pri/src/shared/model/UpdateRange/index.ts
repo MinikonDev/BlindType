@@ -1,1 +1,0 @@
-export { updateRange } from "./mode";

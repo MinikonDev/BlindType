@@ -1,1 +1,0 @@
-export { dictationType } from "./mode";

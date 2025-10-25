@@ -1,1 +1,0 @@
-export { WindowLanguage } from "./ui";

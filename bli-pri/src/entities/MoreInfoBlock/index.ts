@@ -1,1 +1,0 @@
-export { MoreInformationBlock } from "./ui";

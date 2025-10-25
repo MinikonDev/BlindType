@@ -1,1 +1,0 @@
-export { zenType } from "./mode";
